@@ -18,7 +18,7 @@
 
 ## Projects
 ### Malaria Detection Using CNN
-> Accuracy : 84.99 %
+> Accuracy : 94.72 %
 
 ### Redwine Quality Using Decision Tree
 > Accuracy : 59.06 %
